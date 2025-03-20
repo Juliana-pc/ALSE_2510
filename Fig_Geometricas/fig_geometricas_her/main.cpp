@@ -71,7 +71,7 @@ int main(){
     }
 
     for (int i = 0; i < vFig.size(); i++){
-        delete vFig.at(i);
+         delete vFig.at(i);
     }
 
 
